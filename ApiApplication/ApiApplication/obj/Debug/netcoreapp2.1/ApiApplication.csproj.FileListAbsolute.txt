@@ -1,0 +1,14 @@
+C:\Users\SAURABH\source\repos\ApiApplication\ApiApplication\bin\Debug\netcoreapp2.1\ApiApplication.deps.json
+C:\Users\SAURABH\source\repos\ApiApplication\ApiApplication\bin\Debug\netcoreapp2.1\ApiApplication.runtimeconfig.json
+C:\Users\SAURABH\source\repos\ApiApplication\ApiApplication\bin\Debug\netcoreapp2.1\ApiApplication.runtimeconfig.dev.json
+C:\Users\SAURABH\source\repos\ApiApplication\ApiApplication\bin\Debug\netcoreapp2.1\ApiApplication.dll
+C:\Users\SAURABH\source\repos\ApiApplication\ApiApplication\bin\Debug\netcoreapp2.1\ApiApplication.pdb
+C:\Users\SAURABH\source\repos\ApiApplication\ApiApplication\obj\Debug\netcoreapp2.1\ApiApplication.csprojAssemblyReference.cache
+C:\Users\SAURABH\source\repos\ApiApplication\ApiApplication\obj\Debug\netcoreapp2.1\ApiApplication.csproj.CoreCompileInputs.cache
+C:\Users\SAURABH\source\repos\ApiApplication\ApiApplication\obj\Debug\netcoreapp2.1\ApiApplication.RazorAssemblyInfo.cache
+C:\Users\SAURABH\source\repos\ApiApplication\ApiApplication\obj\Debug\netcoreapp2.1\ApiApplication.RazorAssemblyInfo.cs
+C:\Users\SAURABH\source\repos\ApiApplication\ApiApplication\obj\Debug\netcoreapp2.1\ApiApplication.AssemblyInfoInputs.cache
+C:\Users\SAURABH\source\repos\ApiApplication\ApiApplication\obj\Debug\netcoreapp2.1\ApiApplication.AssemblyInfo.cs
+C:\Users\SAURABH\source\repos\ApiApplication\ApiApplication\obj\Debug\netcoreapp2.1\ApiApplication.RazorTargetAssemblyInfo.cache
+C:\Users\SAURABH\source\repos\ApiApplication\ApiApplication\obj\Debug\netcoreapp2.1\ApiApplication.dll
+C:\Users\SAURABH\source\repos\ApiApplication\ApiApplication\obj\Debug\netcoreapp2.1\ApiApplication.pdb
